@@ -1,0 +1,32 @@
+[
+    {
+    "Name": "Transform your everyday business processes with agents",
+    "Language": "English",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4019-Transform-your-everyday-business-processes-with-agents/refs/heads/master/Instructions/Labguides/Getting-started.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4019-Transform-your-everyday-business-processes-with-agents/refs/heads/master/Instructions/Labguides/Exercise1.md",
+        "Order": 2
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4019-Transform-your-everyday-business-processes-with-agents/refs/heads/master/Instructions/Labguides/Exercise2.md",
+        "Order": 3
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4019-Transform-your-everyday-business-processes-with-agents/refs/heads/master/Instructions/Labguides/Exercise3.md",
+        "Order": 4
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4019-Transform-your-everyday-business-processes-with-agents/refs/heads/master/Instructions/Labguides/Exercise4.md",
+        "Order": 5
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4019-Transform-your-everyday-business-processes-with-agents/refs/heads/master/Instructions/Labguides/Exercise5.md",
+        "Order": 6
+      }
+    ]
+    }
+]
