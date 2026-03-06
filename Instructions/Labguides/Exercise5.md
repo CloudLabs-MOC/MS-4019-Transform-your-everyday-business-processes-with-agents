@@ -173,6 +173,13 @@ In this task, you will test the agent by submitting prompts related to the Proje
 
     ![](./media/ex5-p6t1p26.png)
 
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+> - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task.
+> - If not, carefully read the error message and retry the step, following the instructions in the lab guide. 
+> - If you need any assistance, please contact us at cloudlabs-support@spektrasystems.com. We are available 24/7 to help you out.
+
+  <validation step="a6c5936d-60ef-4bd5-9498-6a134e9d83cc" />
+
 ## Summary
 
 In this lab, you created a **SharePoint Communication site** and uploaded Project Nexus documents that serve as the knowledge base for an AI-powered assistant. You then created a **SharePoint-connected Copilot agent** and configured it to use the site’s document library as its primary knowledge source. After configuring the agent’s behavior, prompts, and instructions, you tested the agent by asking questions related to the uploaded documents. This exercise demonstrates how **Microsoft 365 Copilot agents can transform SharePoint sites into intelligent knowledge assistants**, enabling users to quickly access insights, summarize documents, and retrieve relevant information from organizational content.

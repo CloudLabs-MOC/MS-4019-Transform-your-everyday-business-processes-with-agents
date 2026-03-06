@@ -6,7 +6,7 @@
 
 In this exercise, you will explore how different Microsoft 365 Copilot agents can be used together to support decision-making and strategic planning for Project Nexus. While previous exercises focused on analyzing data and gathering insights, this lab focuses on transforming those insights into executive-ready communication and forward-looking strategies. You will use the **Writing Coach** agent to generate structured executive reports, emails, and briefing documents, and the **Idea Coach** agent to brainstorm enterprise rollout strategies and adoption improvements. By the end of the exercise, you will see how multiple Copilot agents can assist with producing leadership-ready outputs and planning the next phase of a project rollout.
 
-# Lab Objectives
+## Lab Objectives
 
 In this exercise, you will complete the following tasks:
 
