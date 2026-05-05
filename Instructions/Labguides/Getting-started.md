@@ -1,6 +1,6 @@
 # MS-4019 : Transform your everyday business processes with agents
 
-### Overall Estimated Duration: 2 Hours
+### Overall Estimated Duration: 20 Hours
 
 ## Overview
 
@@ -9,6 +9,11 @@ In this lab, you will explore how **Microsoft 365 Copilot agents** can support d
 You will begin by using the **Analyst agent** to analyze survey data and identify trends. Next, you will use the **Researcher agent** to synthesize project communications and documents stored in Microsoft 365. You will then use agents such as **Writing Coach** and **Idea Coach** to generate executive communications and brainstorm rollout strategies. Finally, you will create your own **custom Copilot agents**, including one built with **Agent Builder** and another connected to **SharePoint** content.
 
 By the end of this lab, you will understand how multiple Copilot agents can work together to help analyze information, support decision-making, and create intelligent knowledge assistants within Microsoft 365.
+
+>**Note**: <span style="color:maroon;"> Once you launch the track, you’ll have access to a virtual machine (VM) for **20 hours**. The displayed track duration of **5 days and 8 hours** is based on an estimated usage of **4 hours per day**. Please plan your lab sessions accordingly. If the VM uptime of 20 hours is fully exhausted before completing the labs, access will be lost. To avoid this, **once you finish using the lab for the day, please stop or deallocate the VM from the Resources tab**. Refer to the **[Managing Your Virtual Machine](#managing-your-virtual-machine)** section for step-by-step instructions.  
+
+> <span style="color:maroon;"> If the full 20 hours of VM uptime is exhausted, the VM will no longer be accessible, and **the lab duration cannot be extended**.
+
 
 ## Objectives
 

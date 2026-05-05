@@ -24,9 +24,15 @@ In this task, you will create a **SharePoint Communication site** that will act 
 
 1. Navigate to the **Microsoft 365** home page.
 
-2. From the navigation pane, select **Apps (1)**, and then select **SharePoint (2)**.
+2. From the navigation pane, select **Apps (1)**, and then select **More apps (2)** and then select **Sharepoint (3)** under Apps section.
 
-    ![](./media/ex5-p6t1p1.png)
+    ![](./media/ms4019-p6t1p1.png)
+
+    ![](./media/ms4019-p6t1p2.png)
+
+1. When **Welcome to SharePoint Start Page** appears, click on **X** to close it.
+
+    ![](./media/ms4019-p6t1p3.png)
 
 3. On the SharePoint home page, select **+ Create site**.
 
@@ -54,6 +60,10 @@ In this task, you will create a **SharePoint Communication site** that will act 
 1. On the **Set language and other options** page, choose **English (1)** as the language and then click **Create site (2)**.
 
     ![](./media/ex5-p6t1p7.png)
+
+1. If **Start designing your site** pop-up window appears, click on **Maybe later**.
+
+    ![](./media/ms4019-p6t1p4.png)
 
 7. Once the site is created, you are redirected to the site's home page. From the top navigation bar, select the **Documents** tab.
 
@@ -95,13 +105,13 @@ In this task, you will create a **SharePoint Copilot agent** directly from the S
 
 1. You can also add additional sources by selecting **From OneDrive** and choosing other files that you want the agent to reference. However, for the purpose of this lab, use only the Documents library of the site, which contains the files you uploaded earlier.
 
-1. Now select the **Behavior** tab, and in the **Welcome messaging** field, enter the following message:
+1. Now select the **Behavior (1)** tab, and in the **Welcome messaging (2)** field, enter the following message:
 
     ```
     Hello! I can help you find information and insights related to Project Nexus documents stored in this SharePoint site.
     ```
 
-    ![](./media/ex5-p6t1p15.png)
+    ![](./media/ms4019-p6t2p1.png)
 
 1. In the **Starter prompts** section, add the following prompts to help users quickly interact with the agent:
 
@@ -121,7 +131,7 @@ In this task, you will create a **SharePoint Copilot agent** directly from the S
 
 1. On the **Your agent is ready to use** dialog, click on **Chat with agent**.
 
-    ![](./media/ex5-p6t1p18.png)
+    ![](./media/ms4019-p6t2p2.png)
 
 ## Task 3: Test the SharePoint Copilot Agent
 

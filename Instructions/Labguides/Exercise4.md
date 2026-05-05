@@ -90,7 +90,7 @@ In this task, you will create a **Project Nexus Governance Advisor** Copilot age
 
     > **Note:** If you don't add any public websites or work data to your agent, it might still be able to respond to your requests, but only using general capabilities of the underlying large language model (LLM), such as answering common knowledge questions, basic reasoning, or generating generalized text. As such, it's recommended that you ground your agents in specific work data or public websites; otherwise, the agent's responses might lack the context or relevance needed for business-specific tasks.
 
-6. In the **Knowledge** section, add relevant Project Nexus documents from OneDrive (Adoption Report, Risk Log, Executive Notes, Change Plan, etc.).
+6. In the **Knowledge** section, add relevant Project Nexus documents (Adoption Report, Risk Log, Executive Notes, Change Plan, etc.).
 
 1. In the **Open** window, navigate to `C:\AllFiles\Project-Nexus` **(1)**, select all the files in the folder **(2)**, and then click **Open (3)** to upload them.
 
@@ -167,9 +167,7 @@ In this task, you will create a **Project Nexus Governance Advisor** Copilot age
 
 1. When you're done using the agent, select **All agents** in the navigation pane. In your **Agent Store** window that appears, note how your agent is displayed in the **Your agents** section. You can access this agent from the Agent Store, or you can select the pin icon that appears next to the agent in the navigation pane if you want the agent to always display under the list of agents in the pane. 
 
-    ![](./media/ex4-p5t1p23.png)
-
-    ![](./media/ex4-p5t1p24.png)
+    ![](./media/ms4019-p4t2p3.png)
 
 ## Summary
 
