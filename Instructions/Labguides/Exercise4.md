@@ -26,7 +26,7 @@ In this task, you will create a **Project Nexus Governance Advisor** Copilot age
 
     ![](./media/ex-4-Img2.png)
 
-1. In the prompt field **(1)**, enter the following prompt and then click the **Send (2)** arrow to submit the request:
+1. On **Describe** section, go to the prompt field **(1)**, enter the following prompt and then click the **Send (2)** arrow to submit the request:
 
      ```
     Create an agent named Project Nexus Governance Advisor that helps executive leaders evaluate adoption metrics, risks, financial alignment, and rollout readiness using internal Project Nexus documents.
@@ -44,7 +44,7 @@ In this task, you will create a **Project Nexus Governance Advisor** Copilot age
 
 1. First, provide the prompt in the **Describe** section to create the agent. Then, we are using the **Configure** section to review and modify the generated instructions, purpose, guidelines, and other agent settings.
 
-1. Go to the **Configure** window, Notice how the **Name (1)** and **Description (2)** fields are filled in based on your finalized description, by clicking on agent imageyou can assign your agent a custom icon.
+1. Go to the **Configure** window, Notice how the **Name (1)** and **Description (2)** fields are filled in based on your finalized description, by clicking on agent image you can assign your agent a custom icon.
 
     ![](./media/ex4-p5t1p5.png)
 
