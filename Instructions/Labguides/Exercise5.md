@@ -85,7 +85,7 @@ In this task, you will create a **SharePoint Communication site** that will act 
 
 In this task, you will create a **SharePoint Copilot agent** directly from the SharePoint document library. You will configure the agent’s name, purpose, knowledge sources, welcome message, starter prompts, and instructions so that the agent can answer questions based on the documents stored in the site.
 
-1. On the **Documents** tab, click **AI actions (1)**, and then select **Create an agent (2)**.
+1. On the **Documents** tab, click **Copilot (1)**, and then select **Create an agent (2)**.
 
     ![](./media/ex5-p6t1p12(1).png)
 
