@@ -24,11 +24,9 @@ In this task, you will create a **SharePoint Communication site** that will act 
 
 1. Navigate to the **Microsoft 365** home page.
 
-2. From the navigation pane, select **Apps (1)**, and then select **More apps (2)** and then select **Sharepoint (3)** under Apps section.
+2. From the navigation pane, select **Grid menu (1)**, and then select **Sharepoint (2)** under Apps section.
 
     ![](./media/ms4019-p6t1p1.png)
-
-    ![](./media/ms4019-p6t1p2.png)
 
 1. When **Welcome to SharePoint Start Page** appears, click on **X** to close it.
 

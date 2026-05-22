@@ -22,7 +22,11 @@ In this task, you will create a **Project Nexus Governance Advisor** Copilot age
 
     ![](./media/ex4-p5t1p1.png)
 
-2. On the **Describe (1)** tab, enter the following description **(2)** in the prompt field to define the purpose of the new agent, and then click the **Send (3)** arrow to submit the request.
+1. Select **Skip to configure**
+
+    ![](./media/ex-4-Img2.png)
+
+1. In the prompt field **(1)**, enter the following prompt and then click the **Send (2)** arrow to submit the request:
 
      ```
     Create an agent named Project Nexus Governance Advisor that helps executive leaders evaluate adoption metrics, risks, financial alignment, and rollout readiness using internal Project Nexus documents.
@@ -34,31 +38,27 @@ In this task, you will create a **Project Nexus Governance Advisor** Copilot age
 
     ![](./media/ex4-p5t1p3.png)
 
-5. If prompted with follow-up questions, refine the description until satisfied.
+1. If prompted with follow-up questions, refine the description until satisfied.
 
     ![](./media/ex4-p5t1p4.png)
 
-1. At the top of the form is a **Describe** tab and a **Configure** tab.
+1. First, provide the prompt in the **Describe** section to create the agent. Then, we are using the **Configure** section to review and modify the generated instructions, purpose, guidelines, and other agent settings.
 
-    - The **Describe** tab enables you to carry on a conversation with Agent Builder. This tab is displayed by default.
-
-    - The **Configure** tab enables you to define the detailed settings that drive the agent.
-
-1. Select the **Configure (1)** tab, ignore the **Template (2)** and **Agent (3)** icon options for now. In a real-world scenario, you can optionally select a template that you want to base your agent upon, and you can assign your agent a custom icon. Notice how the **Name (4)** and **Description (5)** fields are filled in based on your finalized description.
+1. Go to the **Configure** window, Notice how the **Name (1)** and **Description (2)** fields are filled in based on your finalized description, by clicking on agent imageyou can assign your agent a custom icon.
 
     ![](./media/ex4-p5t1p5.png)
 
     >**Note:** The beauty of the Agent Builder process is that it automatically translates your basic, natural language description into a complex set of instructions. This process saves you from creating this detailed instruction set on your own.
 
-1. Scroll down to the **Instructions** field. Agent Builder generated these instructions based on your initial description and the updates that you made to it on the **Describe** tab. Review the detailed level of instructions that Agent Builder generated.
+1. Scroll down to the **Instructions** field. Agent Builder generated these instructions based on your initial description and the updates that you made to it on the **Describe** section. Review the detailed level of instructions that Agent Builder generated.
 
     ![](./media/ex4-p5t1p6.png)
 
 1. If you wish to change the instructions, you can either manually edit them directly in the **Instructions** field, or you can ask Agent Builder to update the instructions for you.  
 
-1. Although the current instructions appear adequate, you may want to see if they can be further improved. Since you're unsure what changes would enhance them, you decide to ask Agent Builder for recommendations. To do this, select the **Describe (1)** tab.
+1. Although the current instructions appear adequate, you may want to see if they can be further improved. Since you're unsure what changes would enhance them, you decide to ask Agent Builder for recommendations. To do this, go back to **Describe** section.
 
-1. In the prompt field **(2)** enter a request asking Agent Builder to suggest improvements to the agent’s instructions, and click the **Send (3)** arrow to submit the prompt.
+1. In the prompt field **(1)** enter a request asking Agent Builder to suggest improvements to the agent’s instructions, and click the **Send (2)** arrow to submit the prompt.
 
     ```
     What additional instructions would improve this agent’s ability to support executive decision-making and enterprise rollout planning?
@@ -66,11 +66,11 @@ In this task, you will create a **Project Nexus Governance Advisor** Copilot age
 
     ![](./media/ex4-p5t1p7.png)
 
-7. Review Agent Builder’s recommendations.
+1. Review Agent Builder’s recommendations.
 
     ![](./media/ex4-p5t1p8.png)
 
-8. After reviewing the recommendations, if you are satisfied with the suggested updates, enter the following instruction:
+1. After reviewing the recommendations, if you are satisfied with the suggested updates, enter the following instruction:
 
     ```
     Add these recommendations to the agent instructions.
@@ -78,29 +78,33 @@ In this task, you will create a **Project Nexus Governance Advisor** Copilot age
 
     ![](./media/ex4-p5t1p9.png)
 
-9. Once Agent Builder responds that it updated the instructions, select the **Configure (1)** tab and scroll through the **Instructions (2)**. Note the new items that Agent Builder added.
+1. Once Agent Builder responds that it updated the instructions, go back to **Configure** section, click on pop out window option and scroll through the **Instructions**. Note the new items that Agent Builder added.
 
     ![](./media/ex4-p5t1p10.png)
 
 1. Now that you’re satisfied with the instructions, you’re ready to configure the agent’s knowledge sources and suggested prompts.
 
-1. On the **Configure** tab, scroll down to the **Knowledge** section. You should assign any relevant data sources, such as SharePoint sites, documents, or non-Microsoft integrations, that your agent should reference. Click the **Upload from device (1)** icon to upload files from your device as knowledge sources for the agent.
+1. On the **Configure** window, scroll down to the **Knowledge** section. You should assign any relevant data sources, such as SharePoint sites, documents, or non-Microsoft integrations, that your agent should reference. Click the **Upload from device (1)** icon to upload files from your device as knowledge sources for the agent.
 
     ![](./media/ex4-p5t1p11.png)
 
     > **Note:** If you don't add any public websites or work data to your agent, it might still be able to respond to your requests, but only using general capabilities of the underlying large language model (LLM), such as answering common knowledge questions, basic reasoning, or generating generalized text. As such, it's recommended that you ground your agents in specific work data or public websites; otherwise, the agent's responses might lack the context or relevance needed for business-specific tasks.
 
-6. In the **Knowledge** section, add relevant Project Nexus documents (Adoption Report, Risk Log, Executive Notes, Change Plan, etc.).
+1. In the **Knowledge** section, add relevant Project Nexus documents (Adoption Report, Risk Log, Executive Notes, Change Plan, etc.).
 
 1. In the **Open** window, navigate to `C:\AllFiles\Project-Nexus` **(1)**, select all the files in the folder **(2)**, and then click **Open (3)** to upload them.
 
     ![](./media/ex4-p5t1p12.png)
 
+1. If the pop up comes, click on **Turn on**.
+
+    ![](./media/ex-4-Img4.png)
+
 1. Verify that the uploaded files appear under **Uploaded files (1)**, then enable the capabilities by turning on **Create documents, charts, and code (2)** and **Create images (3)**.
 
     ![](./media/ex4-p5t1p13.png)
 
-7. If suggested prompts are automatically generated based on your agent description, review and use them as needed. Otherwise, manually add the following prompts in the **Suggested prompts** section and click **Add a suggested prompt (5)** to add a new row.
+1. If suggested prompts are automatically generated based on your agent description, review and use them as needed. Otherwise, manually add the following prompts in the **Suggested prompts** section and click **Add a suggested prompt (5)** to add a new row.
 
     | **Title**                        | **Message**                                                                |
     | -- | -- |
@@ -111,7 +115,7 @@ In this task, you will create a **Project Nexus Governance Advisor** Copilot age
 
     ![](./media/ex4-p5t1p14.png)
 
-1. In the **Agent preview** pane, select **Rollout Recommendation (1)**, verify the prompt in the message box **(2)**, and then click the **Send icon (3)** to test the agent’s response.
+1. Select **Try It (1)** tab, select **Executive Rollout Recommendation (2)**, verify the prompt in the message box **(3)**, and then click the **Send icon (4)** to test the agent’s response.
 
     ![](./media/ex4-p5t1p15.png)
 
@@ -133,7 +137,7 @@ In this task, you will create a **Project Nexus Governance Advisor** Copilot age
 
     ![](./media/ex4-p5t1p19.png)
 
-2. Enter the following prompt **(1)** in the box, and then click the **Send icon (2)** to submit the prompt:
+1. Enter the following prompt **(1)** in the box, and then click the **Send icon (2)** to submit the prompt:
 
     ```
     Provide an executive summary of Project Nexus readiness for enterprise rollout.
@@ -157,7 +161,7 @@ In this task, you will create a **Project Nexus Governance Advisor** Copilot age
 
     > **Note:** The responses generated by Copilot agents may vary depending on the prompt interpretation and the available data. As a result, the output you receive may differ from the examples shown in the images.
 
-3. Verify that:
+1. Verify that:
 
     * The agent references your uploaded Project Nexus documents
     * Responses are structured and decision-focused
