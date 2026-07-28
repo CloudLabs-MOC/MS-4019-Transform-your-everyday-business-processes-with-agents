@@ -54,9 +54,9 @@ In this task, you will create a **SharePoint Communication site** that will act 
 
    - **Site description:** `SharePoint site containing Project Nexus documents used to power a Copilot agent.` **(2)**
 
-   - On the **Set language and other options** page, choose **English (3)** as the language.
+   - On the **Set language and other options**, choose **English (3)** as the language.
 
-   - click **Create site (4)**.
+   - Click **Create site (4)**.
 
         ![](./media/ex5-p6t1p6.png)
 

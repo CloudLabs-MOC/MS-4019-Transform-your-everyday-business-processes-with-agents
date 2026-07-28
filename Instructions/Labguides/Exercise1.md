@@ -44,7 +44,7 @@ In this task, you'll open Microsoft 365 Copilot, upload the Project Nexus survey
 
     ![](./media/ms4019-p2t1p2.png)
 
-    > **Note:** If the **Analyst** option is not visible, please allow **2-3 minutes** for it to appear and then refresh/check again.
+    > **Note:** If the **Analyst** option is not visible, please allow **2-3 minutes** for it to appear and then do refresh and check again.
 
 1. In the prompt field, select the **+ (Add content) (1)** icon and then select **Upload images and files (2)**.
 
