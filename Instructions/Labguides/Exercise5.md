@@ -124,7 +124,7 @@ In this task, you will create a **SharePoint Copilot agent** directly from the S
 
         ![](./media/ex5-p6t1p16.png)
 
-4. In the **Agent instructions** field, enter the following instruction **(1)** and then click **Create (2)** to create the agent.
+4. In the **Agent instructions** field, enter the following instruction **(1)** and then click **Create agent (2)** to create the agent.
 
     ```
     Use the SharePoint site content to answer questions about Project Nexus documents, summarize information, and provide insights based on the available files.
