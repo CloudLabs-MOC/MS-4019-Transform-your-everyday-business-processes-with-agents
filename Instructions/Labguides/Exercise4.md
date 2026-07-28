@@ -129,7 +129,7 @@ In this task, you will create a **Project Nexus Governance Advisor** Copilot age
 
     ![](./media/ex4-p5t1p17.png)
 
-1. On the **Your agent was created successfully!** dialog, click on **Go to agent**.
+1. On the **Your agent was created successfully!** dialog, click on **Start Chat**.
 
     ![](./media/ex4-p5t1p18.png)
 
