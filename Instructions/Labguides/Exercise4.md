@@ -4,7 +4,7 @@
 
 ## Lab Overview
 
-In this exercise, you will build a **custom Microsoft 365 Copilot agent using Agent Builder** to support executive decision-making for **Project Nexus**. The agent will be configured from scratch and grounded in internal Project Nexus documents to provide contextual, data-driven responses. By defining the agent’s description, instructions, knowledge sources, and suggested prompts, you will create an intelligent assistant capable of analyzing adoption metrics, identifying risks, and generating strategic recommendations for enterprise rollout planning.
+In this exercise, you will build a **Custom Microsoft 365 Copilot agent using Agent Builder** to support executive decision-making for **Project Nexus**. The agent will be configured from scratch and grounded in internal Project Nexus documents to provide contextual, data-driven responses. By defining the agent’s description, instructions, knowledge sources, and suggested prompts, you will create an intelligent assistant capable of analyzing adoption metrics, identifying risks, and generating strategic recommendations for enterprise rollout planning.
 
 You will also test the agent by submitting prompts and validating that the responses reference the uploaded Project Nexus documents to produce **structured, decision-focused insights for leadership**.
 
@@ -22,7 +22,7 @@ In this task, you will create a **Project Nexus Governance Advisor** Copilot age
 
     ![](./media/ex4-p5t1p1.png)
 
-1. Select **Skip to configure**
+1. Select **Skip**.
 
     ![](./media/ex-4-Img2.png)
 
@@ -115,7 +115,7 @@ In this task, you will create a **Project Nexus Governance Advisor** Copilot age
 
     ![](./media/ex4-p5t1p14.png)
 
-1. Select **Try It (1)** tab, select **Executive Rollout Recommendation (2)**, verify the prompt in the message box **(3)**, and then click the **Send icon (4)** to test the agent’s response.
+1. Select **Preview (1)** tab, select **Executive Rollout Recommendation (2)**, verify the prompt in the message box **(3)**, and then click the **Send icon (4)** to test the agent’s response.
 
     ![](./media/ex4-p5t1p15.png)
 
@@ -169,7 +169,7 @@ In this task, you will create a **Project Nexus Governance Advisor** Copilot age
 
 1. If responses are too generic, refine the **Instructions** or **Description**, then test again.
 
-1. When you're done using the agent, select **All agents** in the navigation pane. In your **Agent Store** window that appears, note how your agent is displayed in the **Your agents** section. You can access this agent from the Agent Store, or you can select the pin icon that appears next to the agent in the navigation pane if you want the agent to always display under the list of agents in the pane. 
+1. When you're done using the agent, select **More agents** in the navigation pane. In your **Agent Store** window that appears, note how your agent is displayed in the **Your agents** section. You can access this agent from the Agent Store, or you can select the pin icon that appears next to the agent in the navigation pane if you want the agent to always display under the list of agents in the pane. 
 
     ![](./media/ms4019-p4t2p3.png)
 

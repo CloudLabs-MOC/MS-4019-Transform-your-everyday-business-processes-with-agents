@@ -22,7 +22,7 @@ In this exercise, you will complete the following tasks:
 
 In this task, you'll upload the Project Nexus folder from the local system to OneDrive so that the Microsoft 365 Copilot Researcher agent can access the project documents during the analysis.
 
-1. You are still on the **Microsoft 365** page. From the left navigation pane, select **Grid menu (1)**, and then choose **OneDrive (2)**.
+1. You are still on the **Microsoft 365** page. From the left navigation pane, select **App Launcher (1)**, and then choose **OneDrive (2)**.
 
     ![](./media/ms4019-p3t1p1.png)
 
@@ -58,7 +58,7 @@ In this task, you'll use the Microsoft 365 Copilot Researcher agent to gather an
 
     ![](./media/ms4019-p3t2p1.png)
 
-    >**Note:** If the **Researcher** agent isn't visible in the navigation pane, select **All agents**, and then in the **Agent Store**, choose **Researcher** under **Built by Microsoft**.
+    >**Note:** If the **Researcher** agent isn't visible in the navigation pane, select **More agents**, and then in the **Agent Store**, choose **Researcher** under **Built by Microsoft**.
 
 1. In the prompt field **(1)**, enter the following prompt and then click the **Send (2)** arrow to submit the request:
 

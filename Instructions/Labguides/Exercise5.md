@@ -24,7 +24,7 @@ In this task, you will create a **SharePoint Communication site** that will act 
 
 1. Navigate to the **Microsoft 365** home page.
 
-2. From the navigation pane, select **Grid menu (1)**, and then select **Sharepoint (2)** under Apps section.
+2. From the navigation pane, select **App Launcher (1)**, and then select **Sharepoint (2)** under Apps section.
 
     ![](./media/ms4019-p6t1p1.png)
 
@@ -32,7 +32,7 @@ In this task, you will create a **SharePoint Communication site** that will act 
 
     ![](./media/ms4019-p6t1p3.png)
 
-3. On the SharePoint home page, select **+ Create site**.
+3. On the SharePoint home page, select **Build (1)**,then select **Site (2)** from the menu.
 
     ![](./media/ex5-p6t1p2.png)
 
@@ -40,7 +40,7 @@ In this task, you will create a **SharePoint Communication site** that will act 
 
    ![](./media/ex5-p6t1p3.png)
 
-1. In the **Select a template** window, under **From Microsoft (1)** tab, select **Standard communication (2)**.
+1. In the **Select a site template** window, under **From Microsoft** tab, select **Standard communication**.
 
     ![](./media/ex5-p6t1p4.png)
 
@@ -51,13 +51,18 @@ In this task, you will create a **SharePoint Communication site** that will act 
 5. On the **Give your site a name** page, provide the following details and then click **Next (3)**:
 
    - **Site name:** Project Nexus Knowledge Center <inject key="DeploymentID"></inject> **(1)**
+
    - **Site description:** `SharePoint site containing Project Nexus documents used to power a Copilot agent.` **(2)**
+
+   - On the **Set language and other options** page, choose **English (3)** as the language.
+
+   - click **Create site (4)**.
 
         ![](./media/ex5-p6t1p6.png)
 
-1. On the **Set language and other options** page, choose **English (1)** as the language and then click **Create site (2)**.
+1. Then select **Go to site**.
 
-    ![](./media/ex5-p6t1p7.png)
+    ![](./media/img8.png)
 
 1. If **Start designing your site** pop-up window appears, click on **Maybe later**.
 
@@ -130,6 +135,10 @@ In this task, you will create a **SharePoint Copilot agent** directly from the S
 1. On the **Your agent is ready to use** dialog, click on **Chat with agent**.
 
     ![](./media/ms4019-p6t2p2.png)
+
+1. On the **Project Nexus Knowledge Center** page,  click the **ellipsis (⋯) (1)**, then select **Open (2)**, and choose **Open in M365 Copilot (3)**.
+
+    ![](./media/img24.png)    
 
 ## Task 3: Test the SharePoint Copilot Agent
 

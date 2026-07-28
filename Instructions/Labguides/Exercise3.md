@@ -4,7 +4,7 @@
 
 ## Lab Overview
 
-In this exercise, you will explore how different Microsoft 365 Copilot agents can be used together to support decision-making and strategic planning for Project Nexus. While previous exercises focused on analyzing data and gathering insights, this lab focuses on transforming those insights into executive-ready communication and forward-looking strategies. You will use the **Writing Coach** agent to generate structured executive reports, emails, and briefing documents, and the **Idea Coach** agent to brainstorm enterprise rollout strategies and adoption improvements. By the end of the exercise, you will see how multiple Copilot agents can assist with producing leadership-ready outputs and planning the next phase of a project rollout.
+In this hands-on excercise, you will explore how different Microsoft 365 Copilot agents can be used together to support decision-making and strategic planning for Project Nexus. While previous exercises focused on analyzing data and gathering insights, this lab focuses on transforming those insights into executive-ready communication and forward-looking strategies. You will use the **Writing Coach** agent to generate structured executive reports, emails, and briefing documents, and the **Idea Coach** agent to brainstorm enterprise rollout strategies and adoption improvements. By the end of the exercise, you will see how multiple Copilot agents can assist with producing leadership-ready outputs and planning the next phase of a project rollout.
 
 ## Lab Objectives
 
@@ -18,7 +18,7 @@ In this exercise, you will complete the following tasks:
 
 In this task, you will add the Writing Coach agent and use it to generate executive-level content for Project Nexus, including recommendation reports, executive emails, mitigation plans, and leadership-ready briefing documents.
 
-1. You are still on the **Microsoft 365** page. From the left navigation pane, select **All agents** under Agents section.
+1. You are still on the **Microsoft 365** page. From the left navigation pane, select **More agents** under Agents section.
 
     ![](./media/ms4019-p4t1p1.png)
 
@@ -90,7 +90,7 @@ In this task, you will add the Writing Coach agent and use it to generate execut
 
 In this task, you will install and use the Idea Coach agent to brainstorm strategies that support the successful enterprise rollout of Project Nexus, including adoption improvement ideas, HR engagement strategies, and a phased rollout plan.
 
-1. Select **All agents (1)** from the left navigation pane, then scroll to the **Built by Microsoft** section and click **See more (2)** to view additional available agents.
+1. Select **More agents (1)** from the left navigation pane, then scroll to the **Built by Microsoft** section and click **See more (2)** to view additional available agents.
 
     ![](./media/ms4019-p4t2p1.png)
 
